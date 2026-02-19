@@ -31,3 +31,14 @@ all following console rom files can be downloaded here (https://dlpsgame.com/)
 - (https://vimm.net/vault/GameCube)
 - (https://romsfun.com/roms/gamecube/)
 - (https://www.romsgames.net/roms/gamecube/)
+
+## Emulators name 
+
+- Switch - YUZU - decommissioned - forked version of it exist as sudachi, Naushu, Citron/Eden, Uzuy , suyu
+- Switch - Ryujinx - decommissioned - forked version of it exist as ryubing, Kenji NX, enbyte
+- Wii / Game Cube - Dolphin emulator
+- WiiU - CEMU - (V1.26.0) last best version for (Zelda breath of the wild) latest vesion 2.6.0 runs with lesser frames 
+- 3DS - Citron - decommisioned might be available hidden in inernet - but 3DS games work in RETRO ARCH -emulator after installing core plugins
+- PS3 - RPCS3 (main line build)
+- PS2 - PCSX2 (nightly and mainline)
+- XBOX360 - XENIA, (Nightly build, Main line build)
