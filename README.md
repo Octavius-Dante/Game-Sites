@@ -11,6 +11,10 @@ List of game websites and other info
 - [Igg Games](https://igg-games.com/) - not - updated links are updated upon request 
 - [Skidrow reloaded](https://www.skidrowreloaded.com/) old download links wont be updated
 
+## 
+
+[Crack status of released games](https://crackrelease.com/)
+
 ## Emulation ROM sites 
 
 all following console rom files can be downloaded here (https://dlpsgame.com/)
