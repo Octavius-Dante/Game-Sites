@@ -6,7 +6,7 @@ List of game websites and other info
 - [Fitgirl repack](https://fitgirl-repacks.site/) 
 - [Dodi Repack](https://dodi-repacks.site/)
 
-## Un-compressed version release - Huge size to download - quick install 
+## Un-compressed version release - Huge size to download - quick installa
 
 - [Igg Games](https://igg-games.com/) - not - updated links are updated upon request 
 - [Skidrow reloaded](https://www.skidrowreloaded.com/) old download links wont be updated
