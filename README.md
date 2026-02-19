@@ -45,6 +45,7 @@ all following console rom files can be downloaded here (https://dlpsgame.com/)
 - 3DS - Citron - decommisioned might be available hidden in inernet - but 3DS games work in RETRO ARCH -emulator after installing core plugins
 - PS3 - RPCS3 (main line build)
 - PS2 - PCSX2 (nightly and mainline)
+- PSP - Retro arch , PPSSPP 
 - XBOX360 - XENIA, (Nightly build, Main line build)
 - Retro arch - best for running all 8BIT, 16BIT and nintendo older games befoe 3d era and 3d era games
 
