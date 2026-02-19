@@ -53,4 +53,4 @@ all following console rom files can be downloaded here (https://dlpsgame.com/)
 - [wiiu - roms from archive.org website](https://archive.org/download/wii-u-retail-nus-usa)
 - [link to all the roms many will be missing its just someones collection archive](https://myrient.erista.me/files/No-Intro/)
 
-note : most famous game roms can be found using google search mostly avialbe in archive.org or roms sites 
+note : most famous game roms can be found using google search mostly available in archive.org or roms sites 
