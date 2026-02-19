@@ -23,3 +23,10 @@ all following console rom files can be downloaded here (https://dlpsgame.com/)
 - Nintendo wii-u Roms
 - Nintendo 3DS
 - Nintendo Switch roms [NXBREW for switch roms ](https://nxbrew.net/)
+
+## Game Cube - rom sites 
+
+- (https://www.romspedia.com/roms/nintendo-gamecube)
+- (https://www.emuparadise.me/Nintendo_Gamecube_ISOs/42)
+- (https://vimm.net/vault/GameCube)
+- (https://romsfun.com/roms/gamecube/)
