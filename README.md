@@ -13,7 +13,7 @@ List of game websites and other info
 
 ## Emulation ROM sites 
 
-all following roms can be downloaded here (https://dlpsgame.com/)
+all following console rom files can be downloaded here (https://dlpsgame.com/)
 
 - PS3 Roms 
 - PS2 Roms  
