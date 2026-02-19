@@ -42,7 +42,9 @@ all following console rom files can be downloaded here (https://dlpsgame.com/)
 - PS3 - RPCS3 (main line build)
 - PS2 - PCSX2 (nightly and mainline)
 - XBOX360 - XENIA, (Nightly build, Main line build)
-- Retro arch - best for running all 8BIT, 16BIT and nintendo older games befoe 3d era and 3d era games.
+- Retro arch - best for running all 8BIT, 16BIT and nintendo older games befoe 3d era and 3d era games
 
+##
 
-a link to all the roms in one place not sure how long this link is going to be active []()
+- [wiiu - roms from archive.org website](https://archive.org/download/wii-u-retail-nus-usa)
+- [link to all the roms from 8bit to switch in one place not sure how long this link is going to be active](https://myrient.erista.me/files/No-Intro/)
